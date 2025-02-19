@@ -24,8 +24,6 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tarun290604&show_icons=true&count_private=true&theme=dark&v=1)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tarun290604&theme=dark&v=1)](https://git.io/streak-stats)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarun290604&theme=react-dark)
 
 
