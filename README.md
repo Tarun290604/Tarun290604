@@ -20,28 +20,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 1️⃣ **Equity Edge** | Financial Awareness Platform 💰
-🚀 Built using **Flask, MongoDB, Python, JavaScript, Alpha Vantage API**  
-📈 Implemented **Random Forest Regressor** for financial predictions  
-🔗 [GitHub Repo](https://github.com/Tarun290604/EquityEdge) | [Live Demo](#)
-
-### 2️⃣ **US Visa Prediction using MLOps** | AI-driven Visa Processing 🤖
-🚀 Developed an ML model for **visa approval prediction**  
-🔄 Integrated **CI/CD & MLOps pipelines** for automated deployment  
-🔗 [GitHub Repo](https://github.com/Tarun290604/US-Visa-Prediction) | [Live Demo](#)
-
-### 3️⃣ **Study Space** | Personalized Learning Platform 📚
-🚀 MERN-based **e-learning platform** for students & instructors  
-🔗 [GitHub Repo](https://github.com/Tarun290604/StudySpace) | [Live Demo](#)
-
-### 4️⃣ **Hospitality Dom** | Power BI Analytics 🏨
-🚀 Designed a **Power BI dashboard** to analyze hotel performance metrics  
-🔗 [GitHub Repo](https://github.com/Tarun290604/Hospitality-Dom) | [Live Demo](#)
-
----
-
 ## 📊 GitHub Stats & Contributions
 
 ![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarun290604&show_icons=true&theme=dark)  
