@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats & Contributions
 
-![Tarun's GitHub Stats][[(https://github-readme-stats.vercel.app/api?username=Tarun290604&show_icons=true&theme=dark)](https://tarun2906readme-d4ugmb7yc-taruns-projects-d6b73278.vercel.app/)  ](https://tarun2906readme-d4ugmb7yc-taruns-projects-d6b73278.vercel.app/)
+![Tarun's GitHub Stats](https://tarun2906readme-d4ugmb7yc-taruns-projects-d6b73278.vercel.app/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarun290604&theme=dark)](https://git.io/streak-stats)  
 
 ---
