@@ -3,10 +3,10 @@
 ## 🔹 Software, ML & DevOps Enthusiast | Full Stack Developer
 
 🎓 **Final Year Computer Science Student @ Bangalore Institute of Technology**  
-💡 Passionate about **Machine Learning, Full Stack Development, DevOps & Cloud Technologies**  
+💡 Passionate about **Machine Learning, Full Stack DevelopmentTechnologies**  
 🔭 **Software Engineer Intern @ Boeing (BIPL) | IAMPRO Internship Program**  
 📈 Top 20 Finalist in **YourStory Digital Hackathon**  
-🎤 **Chairperson @ IEEE BIT** – Organizing workshops & hackathons for 250+ participants  
+🎤 **Chairperson @ IEEE BIT** – Organizing workshops & talks for 250+ participants  
 
 ---
 
