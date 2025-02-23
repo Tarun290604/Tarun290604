@@ -12,8 +12,8 @@
 
 ## 🚀 Tech Stack & Expertise
 
-🔹 **Languages:** Python, C++, C#, JavaScript, TypeScript, SQL  
-🔹 **Full Stack:** MERN (MongoDB, Express.js, React, Node.js), Flask, .NET Core  
+🔹 **Languages:** Python, C++, C#, SQL  
+🔹 **Full Stack:** MERN (MongoDB, Express.js, React, Node.js), .NET Core  
 🔹 **Machine Learning & AI:** Transformers, LSTMs, GRU, Random Forest, MLOps  
 🔹 **Cloud & DevOps:** AWS, Docker, CI/CD Pipelines  
 🔹 **Data Visualization & Analytics:** Power BI, AWS Analytics  
