@@ -1,6 +1,6 @@
 # Hi there, I'm Tarunkumar K! 👋 🚀
 
-## 🔹 Software, ML & DevOps Enthusiast | Full Stack Developer
+## 🔹 Software, ML & DevOps Enthusiast | Full Stack 
 
 🎓 **Final Year Computer Science Student @ Bangalore Institute of Technology**  
 💡 Passionate about **Machine Learning, Full Stack DevelopmentTechnologies**  
