@@ -3,7 +3,6 @@
 ## 🔹 Software, ML  Enthusiast | Full Stack 
 
 🎓 **Final Year Computer Science Student @ Bangalore Institute of Technology**  
-💡 **Passionate about **Machine Learning, Full Stack DevelopmentTechnologies**  
 ---
 
 
