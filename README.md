@@ -1,11 +1,5 @@
 # Hi there, I'm Tarunkumar K! 
 
-## 🔹 Software, ML  Enthusiast | Full Stack 
-
-🎓 **Final Year Computer Science Student @ Bangalore Institute of Technology**  
----
-
-
 ## 📊 GitHub Stats & Contributions
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Tarun290604&show_icons=true&count_private=true&theme=dark&v=1)
